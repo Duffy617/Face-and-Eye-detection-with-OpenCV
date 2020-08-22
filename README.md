@@ -19,4 +19,6 @@ The algorithm contains four stages: <br />
 ### STEPs <br />
 
 1. Importing the libraries <br />
-2.Loading the cascades <br />3.Defining a function that will do the detections <br />4.Doing some Face Recognition with the webcam <br />
+2. Loading the cascades <br />
+3. Defining a function that will do the detections <br />
+4. Doing some Face Recognition with the webcam <br />
