@@ -17,6 +17,7 @@ The algorithm contains four stages: <br />
 3. Insert haarcascade_eye.xml & haarcascade_frontalface_default.xml files in the same folder. <br />
 
 ### STEPs <br />
+
 1. Importing the libraries <br />
 2.Loading the cascades <br />
 3.Defining a function that will do the detections <br />
